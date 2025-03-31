@@ -1,0 +1,28 @@
+{
+  "puzzles": [
+    {
+      "date": "2024-01-20",
+      "startWord": "WATER",
+      "endWord": "STEAM",
+      "solution": ["LIQUID", "HEAT", "BOIL", "VAPOR", "GAS"]
+    },
+    {
+      "date": "2024-01-21",
+      "startWord": "EARTH",
+      "endWord": "SPACE",
+      "solution": ["PLANET", "GRAVITY", "ORBIT", "SOLAR", "COSMIC"]
+    },
+    {
+      "date": "2024-04-01",
+      "startWord": "LION",
+      "endWord": "KING",
+      "solution": ["PRIDE", "ROAR", "RULE", "CROWN", "THRONE"]
+    }
+      {
+      "date": "2025-03-31",
+      "startWord": "TREE",
+      "endWord": "OPPOSITES",
+      "solution": ["TWIG", "BRANCH", "OLIVE", "REACH OUT", "IGNORE]
+    }
+  ]
+}
