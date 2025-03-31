@@ -23,6 +23,12 @@
       "startWord": "TREE",
       "endWord": "OPPOSITES",
       "solution": ["TWIG", "BRANCH", "OLIVE", "REACH OUT", "IGNORE"]
+    },
+    {
+      "date": "2025-03-31",
+      "startWord": "1",
+      "endWord": "7",
+      "solution": ["2", "3", "4", "5", "6"]
     }
   ]
 }
