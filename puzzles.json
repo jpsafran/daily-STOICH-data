@@ -29,6 +29,12 @@
       "startWord": "AU",
       "endWord": "GU",
       "solution": ["BU", "CU", "DU", "EU", "FU"]
+    },
+    {
+      "date": "2025-03-31",
+      "startWord": "1",
+      "endWord": "7",
+      "solution": ["2", "3", "4", "5", "6"]
     }
   ]
 }
