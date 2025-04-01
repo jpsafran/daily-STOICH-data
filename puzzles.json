@@ -35,6 +35,24 @@
       "startWord": "TREE",
       "endWord": "SPACE",
       "solution": ["PLANET", "GRAVITY", "ORBIT", "SOLAR", "COSMIC"]
+    },
+    {
+      "date": "2025-04-02",
+      "startWord": "SMOKE",
+      "endWord": "STRESSED",
+      "solution": ["BLOW", "LIE", "LAY", "TENSE", "STRESSED"]
+    },
+    {
+      "date": "2025-04-03",
+      "startWord": "TREE",
+      "endWord": "CRANE",
+      "solution": ["CUT", "PAPER", "FOLD", "ORIGAMI", "CONSTRUCTION"]
+    },
+    {
+      "date": "2025-04-04",
+      "startWord": "FLEE",
+      "endWord": "ROOT",
+      "solution": ["ESCAPE", "LEAVE", "STEM", "PLANT", "STICK"]
     }
   ]
 }
