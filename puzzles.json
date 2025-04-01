@@ -53,6 +53,612 @@
       "startWord": "FLEE",
       "endWord": "ROOT",
       "solution": ["ESCAPE", "LEAVE", "STEM", "PLANT", "STICK"]
-    }
+    },
+    {
+    "date": "2025-04-04",
+    "startWord": "FLEE",
+    "endWord": "ROOT",
+    "solution": ["ESCAPE", "LEAVE", "STEM", "PLANT", "STICK"]
+    },
+    {
+    "date": "2025-04-05",
+    "startWord": "NORTH",
+    "endWord": "GPS",
+    "solution": ["SOUTH", "DIRECTIONS", "PIN", "MAP", "LOST"]
+    },
+    {
+    "date": "2025-04-06",
+    "startWord": "FEAR",
+    "endWord": "REACTION",
+    "solution": ["WONDER", "AWE", "SOME", "AMAZED", "SCARED"]
+    },
+    {
+    "date": "2025-04-07",
+    "startWord": "WART",
+    "endWord": "WABI-SABI",
+    "solution": ["MOLE", "GROWTH", "EVOLUTION", "IMPERFECTION", "BEAUTY"]
+    },
+    {
+    "date": "2025-04-08",
+    "startWord": "ELEPHANTINE",
+    "endWord": "LEO",
+    "solution": ["LARGE", "ASTRONOMICAL", "GALAXY", "COSMIC", "LION"]
+    },
+    {
+    "date": "2025-04-09",
+    "startWord": "BUSH",
+    "endWord": "TELEVISION",
+    "solution": ["BURNING", "COMMANDMENT", "ORDER", "DEMAND", "ON"]
+    },
+    {
+    "date": "2025-04-10",
+    "startWord": "EBENEZER",
+    "endWord": "ENVIOUS",
+    "solution": ["SCROOGE", "STINGY", "FISH", "JELLY", "GREEN"]
+    },
+    {
+    "date": "2025-04-11",
+    "startWord": "ITSY",
+    "endWord": "SURF",
+    "solution": ["BITSY", "SPIDER", "SILK", "WEB", "BROWSE"]
+    },
+    {
+    "date": "2025-04-12",
+    "startWord": "INERT",
+    "endWord": "ENERGY",
+    "solution": ["GAS", "NEON", "PASTEL", "VIBRANT", "INACTIVE"]
+  },
+  {
+    "date": "2025-04-13",
+    "startWord": "NEGATORY",
+    "endWord": "SPANISH",
+    "solution": ["IXNAY", "MINIMĒ", "CARPE DIEM", "LATIN", "AMERICA"]
+  },
+  {
+    "date": "2025-04-14",
+    "startWord": "NORTH",
+    "endWord": "GPS",
+    "solution": ["SOUTH", "DIRECTIONS", "PIN", "MAP", "LOST"]
+  },
+  {
+    "date": "2025-04-15",
+    "startWord": "FEAR",
+    "endWord": "REACTION",
+    "solution": ["WONDER", "AWE", "SOME", "AMAZED", "SCARED"]
+  },
+  {
+    "date": "2025-04-16",
+    "startWord": "WART",
+    "endWord": "WABI-SABI",
+    "solution": ["MOLE", "GROWTH", "EVOLUTION", "IMPERFECTION", "BEAUTY"]
+  },
+  {
+    "date": "2025-04-17",
+    "startWord": "ELEPHANTINE",
+    "endWord": "LEO",
+    "solution": ["LARGE", "ASTRONOMICAL", "GALAXY", "COSMIC", "LION"]
+  },
+  {
+    "date": "2025-04-18",
+    "startWord": "BUSH",
+    "endWord": "TELEVISION",
+    "solution": ["BURNING", "COMMANDMENT", "ORDER", "DEMAND", "ON"]
+  },
+  {
+    "date": "2025-04-19",
+    "startWord": "EBENEZER",
+    "endWord": "ENVIOUS",
+    "solution": ["SCROOGE", "STINGY", "FISH", "JELLY", "GREEN"]
+  },
+  {
+    "date": "2025-04-20",
+    "startWord": "ITSY",
+    "endWord": "SURF",
+    "solution": ["BITSY", "SPIDER", "SILK", "WEB", "BROWSE"]
+  },
+  {
+    "date": "2025-04-21",
+    "startWord": "INERT",
+    "endWord": "ENERGY",
+    "solution": ["GAS", "NEON", "PASTEL", "VIBRANT", "INACTIVE"]
+  },
+  {
+    "date": "2025-04-22",
+    "startWord": "NEGATORY",
+    "endWord": "SPANISH",
+    "solution": ["IXNAY", "MINIMĒ", "CARPE DIEM", "LATIN", "AMERICA"]
+  },
+  {
+    "date": "2025-04-23",
+    "startWord": "NORTH",
+    "endWord": "GPS",
+    "solution": ["SOUTH", "DIRECTIONS", "PIN", "MAP", "LOST"]
+  },
+  {
+    "date": "2025-04-24",
+    "startWord": "FEAR",
+    "endWord": "REACTION",
+    "solution": ["WONDER", "AWE", "SOME", "AMAZED", "SCARED"]
+  },
+  {
+    "date": "2025-04-25",
+    "startWord": "WART",
+    "endWord": "WABI-SABI",
+    "solution": ["MOLE", "GROWTH", "EVOLUTION", "IMPERFECTION", "BEAUTY"]
+  },
+  {
+    "date": "2025-04-26",
+    "startWord": "ELEPHANTINE",
+    "endWord": "LEO",
+    "solution": ["LARGE", "ASTRONOMICAL", "GALAXY", "COSMIC", "LION"]
+  },
+  {
+    "date": "2025-04-27",
+    "startWord": "BUSH",
+    "endWord": "TELEVISION",
+    "solution": ["BURNING", "COMMANDMENT", "ORDER", "DEMAND", "ON"]
+  },
+  {
+    "date": "2025-04-28",
+    "startWord": "EBENEZER",
+    "endWord": "ENVIOUS",
+    "solution": ["SCROOGE", "STINGY", "FISH", "JELLY", "GREEN"]
+  },
+  {
+    "date": "2025-04-29",
+    "startWord": "ITSY",
+    "endWord": "SURF",
+    "solution": ["BITSY", "SPIDER", "SILK", "WEB", "BROWSE"]
+  },
+  {
+    "date": "2025-04-30",
+    "startWord": "INERT",
+    "endWord": "ENERGY",
+    "solution": ["GAS", "NEON", "PASTEL", "VIBRANT", "INACTIVE"]
+  },
+  {
+    "date": "2025-05-01",
+    "startWord": "NEGATORY",
+    "endWord": "SPANISH",
+    "solution": ["IXNAY", "MINIMĒ", "CARPE DIEM", "LATIN", "AMERICA"]
+  },
+  {
+    "date": "2025-05-02",
+    "startWord": "NORTH",
+    "endWord": "GPS",
+    "solution": ["SOUTH", "DIRECTIONS", "PIN", "MAP", "LOST"]
+  },
+  {
+    "date": "2025-05-03",
+    "startWord": "FEAR",
+    "endWord": "REACTION",
+    "solution": ["WONDER", "AWE", "SOME", "AMAZED", "SCARED"]
+  },
+  {
+    "date": "2025-05-04",
+    "startWord": "WART",
+    "endWord": "WABI-SABI",
+    "solution": ["MOLE", "GROWTH", "EVOLUTION", "IMPERFECTION", "BEAUTY"]
+  },
+  {
+    "date": "2025-05-05",
+    "startWord": "ELEPHANTINE",
+    "endWord": "LEO",
+    "solution": ["LARGE", "ASTRONOMICAL", "GALAXY", "COSMIC", "LION"]
+  },
+  {
+    "date": "2025-05-06",
+    "startWord": "BUSH",
+    "endWord": "TELEVISION",
+    "solution": ["BURNING", "COMMANDMENT", "ORDER", "DEMAND", "ON"]
+  },
+  {
+    "date": "2025-05-07",
+    "startWord": "EBENEZER",
+    "endWord": "ENVIOUS",
+    "solution": ["SCROOGE", "STINGY", "FISH", "JELLY", "GREEN"]
+  },
+  {
+    "date": "2025-05-08",
+    "startWord": "ITSY",
+    "endWord": "SURF",
+    "solution": ["BITSY", "SPIDER", "SILK", "WEB", "BROWSE"]
+  },
+  {
+    "date": "2025-05-09",
+    "startWord": "INERT",
+    "endWord": "ENERGY",
+    "solution": ["GAS", "NEON", "PASTEL", "VIBRANT", "INACTIVE"]
+  },
+  {
+    "date": "2025-05-10",
+    "startWord": "NEGATORY",
+    "endWord": "SPANISH",
+    "solution": ["IXNAY", "MINIMĒ", "CARPE DIEM", "LATIN", "AMERICA"]
+  },
+  {
+    "date": "2025-05-11",
+    "startWord": "NORTH",
+    "endWord": "GPS",
+    "solution": ["SOUTH", "DIRECTIONS", "PIN", "MAP", "LOST"]
+  },
+  {
+    "date": "2025-05-12",
+    "startWord": "FEAR",
+    "endWord": "REACTION",
+    "solution": ["WONDER", "AWE", "SOME", "AMAZED", "SCARED"]
+  },
+  {
+    "date": "2025-05-13",
+    "startWord": "WART",
+    "endWord": "WABI-SABI",
+    "solution": ["MOLE", "GROWTH", "EVOLUTION", "IMPERFECTION", "BEAUTY"]
+  },
+  {
+    "date": "2025-05-14",
+    "startWord": "ELEPHANTINE",
+    "endWord": "LEO",
+    "solution": ["LARGE", "ASTRONOMICAL", "GALAXY", "COSMIC", "LION"]
+  },
+  {
+    "date": "2025-05-15",
+    "startWord": "BUSH",
+    "endWord": "TELEVISION",
+    "solution": ["BURNING", "COMMANDMENT", "ORDER", "DEMAND", "ON"]
+  },
+  {
+    "date": "2025-05-16",
+    "startWord": "EBENEZER",
+    "endWord": "ENVIOUS",
+    "solution": ["SCROOGE", "STINGY", "FISH", "JELLY", "GREEN"]
+  },
+  {
+    "date": "2025-05-17",
+    "startWord": "ITSY",
+    "endWord": "SURF",
+    "solution": ["BITSY", "SPIDER", "SILK", "WEB", "BROWSE"]
+  },
+  {
+    "date": "2025-05-18",
+    "startWord": "INERT",
+    "endWord": "ENERGY",
+    "solution": ["GAS", "NEON", "PASTEL", "VIBRANT", "INACTIVE"]
+  },
+  {
+    "date": "2025-05-19",
+    "startWord": "NEGATORY",
+    "endWord": "SPANISH",
+    "solution": ["IXNAY", "MINIMĒ", "CARPE DIEM", "LATIN", "AMERICA"]
+  },
+  {
+    "date": "2025-05-20",
+    "startWord": "NORTH",
+    "endWord": "GPS",
+    "solution": ["SOUTH", "DIRECTIONS", "PIN", "MAP", "LOST"]
+  },
+  {
+    "date": "2025-05-21",
+    "startWord": "FEAR",
+    "endWord": "REACTION",
+    "solution": ["WONDER", "AWE", "SOME", "AMAZED", "SCARED"]
+  },
+  {
+    "date": "2025-05-22",
+    "startWord": "WART",
+    "endWord": "WABI-SABI",
+    "solution": ["MOLE", "GROWTH", "EVOLUTION", "IMPERFECTION", "BEAUTY"]
+  },
+  {
+    "date": "2025-05-23",
+    "startWord": "ELEPHANTINE",
+    "endWord": "LEO",
+    "solution": ["LARGE", "ASTRONOMICAL", "GALAXY", "COSMIC", "LION"]
+  },
+  {
+    "date": "2025-05-24",
+    "startWord": "BUSH",
+    "endWord": "TELEVISION",
+    "solution": ["BURNING", "COMMANDMENT", "ORDER", "DEMAND", "ON"]
+  },
+  {
+    "date": "2025-05-25",
+    "startWord": "EBENEZER",
+    "endWord": "ENVIOUS",
+    "solution": ["SCROOGE", "STINGY", "FISH", "JELLY", "GREEN"]
+  },
+  {
+    "date": "2025-05-26",
+    "startWord": "ITSY",
+    "endWord": "SURF",
+    "solution": ["BITSY", "SPIDER", "SILK", "WEB", "BROWSE"]
+  },
+  {
+    "date": "2025-05-27",
+    "startWord": "INERT",
+    "endWord": "ENERGY",
+    "solution": ["GAS", "NEON", "PASTEL", "VIBRANT", "INACTIVE"]
+  },
+  {
+    "date": "2025-05-28",
+    "startWord": "NEGATORY",
+    "endWord": "SPANISH",
+    "solution": ["IXNAY", "MINIMĒ", "CARPE DIEM", "LATIN", "AMERICA"]
+  },
+  {
+    "date": "2025-05-29",
+    "startWord": "NORTH",
+    "endWord": "GPS",
+    "solution": ["SOUTH", "DIRECTIONS", "PIN", "MAP", "LOST"]
+  },
+  {
+    "date": "2025-05-30",
+    "startWord": "FEAR",
+    "endWord": "REACTION",
+    "solution": ["WONDER", "AWE", "SOME", "AMAZED", "SCARED"]
+  },
+  {
+    "date": "2025-05-31",
+    "startWord": "WART",
+    "endWord": "WABI-SABI",
+    "solution": ["MOLE", "GROWTH", "EVOLUTION", "IMPERFECTION", "BEAUTY"]
+  },
+  {
+    "date": "2025-06-01",
+    "startWord": "ELEPHANTINE",
+    "endWord": "LEO",
+    "solution": ["LARGE", "ASTRONOMICAL", "GALAXY", "COSMIC", "LION"]
+  },
+  {
+    "date": "2025-06-02",
+    "startWord": "BUSH",
+    "endWord": "TELEVISION",
+    "solution": ["BURNING", "COMMANDMENT", "ORDER", "DEMAND", "ON"]
+  },
+  {
+    "date": "2025-06-03",
+    "startWord": "EBENEZER",
+    "endWord": "ENVIOUS",
+    "solution": ["SCROOGE", "STINGY", "FISH", "JELLY", "GREEN"]
+  },
+  {
+    "date": "2025-06-04",
+    "startWord": "ITSY",
+    "endWord": "SURF",
+    "solution": ["BITSY", "SPIDER", "SILK", "WEB", "BROWSE"]
+  },
+  {
+    "date": "2025-06-05",
+    "startWord": "INERT",
+    "endWord": "ENERGY",
+    "solution": ["GAS", "NEON", "PASTEL", "VIBRANT", "INACTIVE"]
+  },
+  {
+    "date": "2025-06-06",
+    "startWord": "NEGATORY",
+    "endWord": "SPANISH",
+    "solution": ["IXNAY", "MINIMĒ", "CARPE DIEM", "LATIN", "AMERICA"]
+  },
+  {
+    "date": "2025-06-07",
+    "startWord": "NORTH",
+    "endWord": "GPS",
+    "solution": ["SOUTH", "DIRECTIONS", "PIN", "MAP", "LOST"]
+  },
+  {
+    "date": "2025-06-08",
+    "startWord": "FEAR",
+    "endWord": "REACTION",
+    "solution": ["WONDER", "AWE", "SOME", "AMAZED", "SCARED"]
+  },
+  {
+    "date": "2025-06-09",
+    "startWord": "WART",
+    "endWord": "WABI-SABI",
+    "solution": ["MOLE", "GROWTH", "EVOLUTION", "IMPERFECTION", "BEAUTY"]
+  },
+  {
+    "date": "2025-06-10",
+    "startWord": "ELEPHANTINE",
+    "endWord": "LEO",
+    "solution": ["LARGE", "ASTRONOMICAL", "GALAXY", "COSMIC", "LION"]
+  },
+  {
+    "date": "2025-06-11",
+    "startWord": "BUSH",
+    "endWord": "TELEVISION",
+    "solution": ["BURNING", "COMMANDMENT", "ORDER", "DEMAND", "ON"]
+  },
+  {
+    "date": "2025-06-12",
+    "startWord": "EBENEZER",
+    "endWord": "ENVIOUS",
+    "solution": ["SCROOGE", "STINGY", "FISH", "JELLY", "GREEN"]
+  },
+  {
+    "date": "2025-06-13",
+    "startWord": "ITSY",
+    "endWord": "SURF",
+    "solution": ["BITSY", "SPIDER", "SILK", "WEB", "BROWSE"]
+  },
+  {
+    "date": "2025-06-14",
+    "startWord": "INERT",
+    "endWord": "ENERGY",
+    "solution": ["GAS", "NEON", "PASTEL", "VIBRANT", "INACTIVE"]
+  },
+  {
+    "date": "2025-06-15",
+    "startWord": "NEGATORY",
+    "endWord": "SPANISH",
+    "solution": ["IXNAY", "MINIMĒ", "CARPE DIEM", "LATIN", "AMERICA"]
+  },
+  {
+    "date": "2025-06-16",
+    "startWord": "NORTH",
+    "endWord": "GPS",
+    "solution": ["SOUTH", "DIRECTIONS", "PIN", "MAP", "LOST"]
+  },
+  {
+    "date": "2025-06-17",
+    "startWord": "FEAR",
+    "endWord": "REACTION",
+    "solution": ["WONDER", "AWE", "SOME", "AMAZED", "SCARED"]
+  },
+  {
+    "date": "2025-06-18",
+    "startWord": "WART",
+    "endWord": "WABI-SABI",
+    "solution": ["MOLE", "GROWTH", "EVOLUTION", "IMPERFECTION", "BEAUTY"]
+  },
+  {
+    "date": "2025-06-19",
+    "startWord": "ELEPHANTINE",
+    "endWord": "LEO",
+    "solution": ["LARGE", "ASTRONOMICAL", "GALAXY", "COSMIC", "LION"]
+  },
+  {
+    "date": "2025-06-20",
+    "startWord": "BUSH",
+    "endWord": "TELEVISION",
+    "solution": ["BURNING", "COMMANDMENT", "ORDER", "DEMAND", "ON"]
+  },
+  {
+    "date": "2025-06-21",
+    "startWord": "EBENEZER",
+    "endWord": "ENVIOUS",
+    "solution": ["SCROOGE", "STINGY", "FISH", "JELLY", "GREEN"]
+  },
+  {
+    "date": "2025-06-22",
+    "startWord": "ITSY",
+    "endWord": "SURF",
+    "solution": ["BITSY", "SPIDER", "SILK", "WEB", "BROWSE"]
+  },
+  {
+    "date": "2025-06-23",
+    "startWord": "INERT",
+    "endWord": "ENERGY",
+    "solution": ["GAS", "NEON", "PASTEL", "VIBRANT", "INACTIVE"]
+  },
+  {
+    "date": "2025-06-24",
+    "startWord": "NEGATORY",
+    "endWord": "SPANISH",
+    "solution": ["IXNAY", "MINIMĒ", "CARPE DIEM", "LATIN", "AMERICA"]
+  },
+  {
+    "date": "2025-06-25",
+    "startWord": "NORTH",
+    "endWord": "GPS",
+    "solution": ["SOUTH", "DIRECTIONS", "PIN", "MAP", "LOST"]
+  },
+  {
+    "date": "2025-06-26",
+    "startWord": "FEAR",
+    "endWord": "REACTION",
+    "solution": ["WONDER", "AWE", "SOME", "AMAZED", "SCARED"]
+  },
+  {
+    "date": "2025-06-27",
+    "startWord": "WART",
+    "endWord": "WABI-SABI",
+    "solution": ["MOLE", "GROWTH", "EVOLUTION", "IMPERFECTION", "BEAUTY"]
+  },
+  {
+    "date": "2025-06-28",
+    "startWord": "ELEPHANTINE",
+    "endWord": "LEO",
+    "solution": ["LARGE", "ASTRONOMICAL", "GALAXY", "COSMIC", "LION"]
+  },
+  {
+    "date": "2025-06-29",
+    "startWord": "BUSH",
+    "endWord": "TELEVISION",
+    "solution": ["BURNING", "COMMANDMENT", "ORDER", "DEMAND", "ON"]
+  },
+  {
+    "date": "2025-06-30",
+    "startWord": "EBENEZER",
+    "endWord": "ENVIOUS",
+    "solution": ["SCROOGE", "STINGY", "FISH", "JELLY", "GREEN"]
+  },
+  {
+    "date": "2025-07-01",
+    "startWord": "ITSY",
+    "endWord": "SURF",
+    "solution": ["BITSY", "SPIDER", "SILK", "WEB", "BROWSE"]
+  },
+  {
+    "date": "2025-07-02",
+    "startWord": "INERT",
+    "endWord": "ENERGY",
+    "solution": ["GAS", "NEON", "PASTEL", "VIBRANT", "INACTIVE"]
+  },
+  {
+    "date": "2025-07-03",
+    "startWord": "NEGATORY",
+    "endWord": "SPANISH",
+    "solution": ["IXNAY", "MINIMĒ", "CARPE DIEM", "LATIN", "AMERICA"]
+  },
+  {
+    "date": "2025-07-04",
+    "startWord": "NORTH",
+    "endWord": "GPS",
+    "solution": ["SOUTH", "DIRECTIONS", "PIN", "MAP", "LOST"]
+  },
+  {
+    "date": "2025-07-05",
+    "startWord": "FEAR",
+    "endWord": "REACTION",
+    "solution": ["WONDER", "AWE", "SOME", "AMAZED", "SCARED"]
+  },
+  {
+    "date": "2025-07-06",
+    "startWord": "WART",
+    "endWord": "WABI-SABI",
+    "solution": ["MOLE", "GROWTH", "EVOLUTION", "IMPERFECTION", "BEAUTY"]
+  },
+  {
+    "date": "2025-07-07",
+    "startWord": "ELEPHANTINE",
+    "endWord": "LEO",
+    "solution": ["LARGE", "ASTRONOMICAL", "GALAXY", "COSMIC", "LION"]
+  },
+  {
+    "date": "2025-07-08",
+    "startWord": "BUSH",
+    "endWord": "TELEVISION",
+    "solution": ["BURNING", "COMMANDMENT", "ORDER", "DEMAND", "ON"]
+  },
+  {
+    "date": "2025-07-09",
+    "startWord": "EBENEZER",
+    "endWord": "ENVIOUS",
+    "solution": ["SCROOGE", "STINGY", "FISH", "JELLY", "GREEN"]
+  },
+  {
+    "date": "2025-07-10",
+    "startWord": "ITSY",
+    "endWord": "SURF",
+    "solution": ["BITSY", "SPIDER", "SILK", "WEB", "BROWSE"]
+  },
+  {
+    "date": "2025-07-11",
+    "startWord": "INERT",
+    "endWord": "ENERGY",
+    "solution": ["GAS", "NEON", "PASTEL", "VIBRANT", "INACTIVE"]
+  },
+  {
+    "date": "2025-07-12",
+    "startWord": "NEGATORY",
+    "endWord": "SPANISH",
+    "solution": ["IXNAY", "MINIMĒ", "CARPE DIEM", "LATIN", "AMERICA"]
+  },
+  {
+    "date": "2025-07-13",
+    "startWord": "NORTH",
+    "endWord": "GPS",
+    "solution": ["SOUTH", "DIRECTIONS", "PIN", "MAP", "LOST"]
+  }
   ]
 }
