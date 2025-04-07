@@ -110,33 +110,33 @@
   },
   {
     "date": "2025-04-14",
-    "startWord": "NORTH",
-    "endWord": "GPS",
-    "solution": ["SOUTH", "DIRECTIONS", "PIN", "MAP", "LOST"]
+    "startWord": "BENDS",
+    "endWord": "WAVES",
+    "solution": ["DECOMPRESSION", "SCUBA", "SNORKEL", "OCEAN", "SWIRLS"]
   },
   {
     "date": "2025-04-15",
-    "startWord": "FEAR",
-    "endWord": "REACTION",
-    "solution": ["WONDER", "AWE", "SOME", "AMAZED", "SCARED"]
+    "startWord": "DANDELION",
+    "endWord": "BLOOM",
+    "solution": ["WINE", "RAY", "BEAM", "SUN", "FLOWER"]
   },
   {
     "date": "2025-04-16",
-    "startWord": "WART",
-    "endWord": "WABI-SABI",
-    "solution": ["MOLE", "GROWTH", "EVOLUTION", "IMPERFECTION", "BEAUTY"]
+    "startWord": "SCURVY",
+    "endWord": "CREWMATES",
+    "solution": ["RECESSION", "GUMS", "EPOXIES", "BONDS", "PIRATES"]
   },
   {
     "date": "2025-04-17",
-    "startWord": "ELEPHANTINE",
-    "endWord": "LEO",
-    "solution": ["LARGE", "ASTRONOMICAL", "GALAXY", "COSMIC", "LION"]
+    "startWord": "SPARE",
+    "endWord": "FIGHT",
+    "solution": ["STRIKE", "BOWL", "FISH", "DISCUSSION", "PUNCH"]
   },
   {
     "date": "2025-04-18",
-    "startWord": "BUSH",
-    "endWord": "TELEVISION",
-    "solution": ["BURNING", "COMMANDMENT", "ORDER", "DEMAND", "ON"]
+    "startWord": "POP",
+    "endWord": "PICKLE",
+    "solution": ["SWEET", "CORN", "RYE", "BREAD", "BUTTER"]
   },
   {
     "date": "2025-04-19",
