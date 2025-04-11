@@ -164,9 +164,9 @@
   },
   {
     "date": "2025-04-23",
-    "startWord": "NORTH",
-    "endWord": "GPS",
-    "solution": ["SOUTH", "DIRECTIONS", "PIN", "MAP", "LOST"]
+    "startWord": "GOLD",
+    "endWord": "KING",
+    "solution": ["INDUSTRY", "STANDARD", "GUIDELINE", "RULE", "REIGN"]
   },
   {
     "date": "2025-04-24",
