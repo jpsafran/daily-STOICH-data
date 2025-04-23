@@ -171,7 +171,7 @@
   {
     "date": "2025-04-24",
     "startWord": "CIRCLE",
-    "endWord": "HIGHWAY",
+    "endWord": "TRAFFIC",
     "solution": ["WHEEL", "ROUND", "ABOUT", "ROUNDABOUT", "INTERSECTION"]
   },
   {
@@ -236,27 +236,27 @@
   },
   {
     "date": "2025-05-05",
-    "startWord": "ELEPHANTINE",
-    "endWord": "LEO",
-    "solution": ["LARGE", "ASTRONOMICAL", "GALAXY", "COSMIC", "LION"]
+    "startWord": "CAT",
+    "endWord": "PRISON",
+    "solution": ["DOG", "ANIMAL", "PLANT", "CELL", "JAIL"]
   },
   {
     "date": "2025-05-06",
-    "startWord": "BUSH",
-    "endWord": "TELEVISION",
-    "solution": ["BURNING", "COMMANDMENT", "ORDER", "DEMAND", "ON"]
+    "startWord": "BEAR",
+    "endWord": "EBAY",
+    "solution": ["BULL", "MARKET", "FLEA", "RESALE", "INTERNET"]
   },
   {
     "date": "2025-05-07",
-    "startWord": "EBENEZER",
-    "endWord": "ENVIOUS",
-    "solution": ["SCROOGE", "STINGY", "FISH", "JELLY", "GREEN"]
+    "startWord": "SQUARE",
+    "endWord": "NATION",
+    "solution": ["CIRCLE", "SHAPE", "CONDITION", "STATE", "COUNTRY"]
   },
   {
     "date": "2025-05-08",
-    "startWord": "ITSY",
-    "endWord": "SURF",
-    "solution": ["BITSY", "SPIDER", "SILK", "WEB", "BROWSE"]
+    "startWord": "EARTH",
+    "endWord": "DEAF",
+    "solution": ["MARS", "PLANET", "ASTROLOGY", "SIGN", "LANGUAGE"]
   },
   {
     "date": "2025-05-09",
