@@ -272,15 +272,15 @@
   },
   {
     "date": "2025-05-11",
-    "startWord": "NORTH",
-    "endWord": "GPS",
-    "solution": ["SOUTH", "DIRECTIONS", "PIN", "MAP", "LOST"]
+    "startWord": "APPLE",
+    "endWord": "FACE",
+    "solution": ["LINUX", "OS", "OD", "EYES", "EARS"]
   },
   {
     "date": "2025-05-12",
-    "startWord": "FEAR",
-    "endWord": "REACTION",
-    "solution": ["WONDER", "AWE", "SOME", "AMAZED", "SCARED"]
+    "startWord": "AN",
+    "endWord": "PAYMENT",
+    "solution": ["CAT", "ION", "ELECTROLYTE", "CHARGE", "BILL"]
   },
   {
     "date": "2025-05-13",
