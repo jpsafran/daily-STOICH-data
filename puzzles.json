@@ -273,8 +273,8 @@
   {
     "date": "2025-05-11",
     "startWord": "APPLE",
-    "endWord": "FACE",
-    "solution": ["LINUX", "OS", "OD", "EYES", "EARS"]
+    "endWord": "GEAR",
+    "solution": ["LINUX", "OS", "SO", "REVERSE", "NEUTRAL"]
   },
   {
     "date": "2025-05-12",
@@ -284,15 +284,15 @@
   },
   {
     "date": "2025-05-13",
-    "startWord": "WART",
-    "endWord": "WABI-SABI",
-    "solution": ["MOLE", "GROWTH", "EVOLUTION", "IMPERFECTION", "BEAUTY"]
+    "startWord": "SOB",
+    "endWord": "ONE",
+    "solution": ["CRY", "BAWL", "BALL", "HOMOPHONE", "CONE"]
   },
   {
     "date": "2025-05-14",
-    "startWord": "ELEPHANTINE",
-    "endWord": "LEO",
-    "solution": ["LARGE", "ASTRONOMICAL", "GALAXY", "COSMIC", "LION"]
+    "startWord": "SIT",
+    "endWord": "STINKY",
+    "solution": ["STAND", "POSITION", "STANDING", "RANK", "ROTTEN"]
   },
   {
     "date": "2025-05-15",
