@@ -326,9 +326,9 @@
   },
   {
     "date": "2025-05-20",
-    "startWord": "NORTH",
-    "endWord": "GPS",
-    "solution": ["SOUTH", "DIRECTIONS", "PIN", "MAP", "LOST"]
+    "startWord": "STUCK",
+    "endWord": "LEFT",
+    "solution": ["UP", "SMUG", "GUMS", "FLIP", "RIGHT"]
   },
   {
     "date": "2025-05-21",
