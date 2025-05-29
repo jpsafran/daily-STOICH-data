@@ -380,9 +380,9 @@
   },
   {
     "date": "2025-05-29",
-    "startWord": "NORTH",
-    "endWord": "GPS",
-    "solution": ["SOUTH", "DIRECTIONS", "PIN", "MAP", "LOST"]
+    "startWord": "MERIDIEM",
+    "endWord": "POKER",
+    "solution": ["ANTE", "MORNING", "NIGHT", "PAIR", "CALL"]
   },
   {
     "date": "2025-05-30",
