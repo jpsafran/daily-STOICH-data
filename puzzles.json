@@ -596,9 +596,9 @@
   },
   {
     "date": "2025-07-04",
-    "startWord": "NORTH",
-    "endWord": "GPS",
-    "solution": ["SOUTH", "DIRECTIONS", "PIN", "MAP", "LOST"]
+    "startWord": "WATER",
+    "endWord": "TERMINATES",
+    "solution": ["WORKS", "TEARS", "RIPS", "SPLITS", "FIRES"]
   },
   {
     "date": "2025-07-05",
