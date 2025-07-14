@@ -653,6 +653,13 @@
     "startWord": "SOME",
     "endWord": "COSMETICS",
     "solution": ["SUM", "UM", "LIKE", "FILLER", "MAKEUP"]
+  },
+{
+    "date": "2025-07-14",
+    "startWord": "FLAG",
+    "endWord": "ROMANCE",
+    "solution": ["ALERT", "SIGNAL", "BARS", "CONNECTION", "CHEMISTRY"]
   }
+    
   ]
 }
