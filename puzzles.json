@@ -672,6 +672,12 @@
     "startWord": "GENE",
     "endWord": "UNIT",
     "solution": ["YES", "SMART", "PHONE", "PIXEL", "INCH"]
+  },
+{
+    "date": "2025-07-17",
+    "startWord": "WHOLE",
+    "endWord": "HURT",
+    "solution": ["NOW", "RECESS", "PAUSE", "BREAK", "INJURE"]
   }
   ]
 }
