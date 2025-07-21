@@ -684,6 +684,12 @@
     "startWord": "EYES",
     "endWord": "FORM",
     "solution": ["REMOVE", "AFFIRMATIVE", "NO", "RESPONSE", "DROPDOWN"]
+  },
+{
+    "date": "2025-07-21",
+    "startWord": "LOOP",
+    "endWord": "POP",
+    "solution": ["HOOP", "OOPS", "YIKES", "SURPRISE", "EXAM"]
   }
   ]
 }
