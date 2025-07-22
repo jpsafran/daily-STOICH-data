@@ -690,6 +690,12 @@
     "startWord": "LOOP",
     "endWord": "POP",
     "solution": ["HOOP", "OOPS", "YIKES", "SURPRISE", "EXAM"]
+  },
+{
+    "date": "2025-07-22",
+    "startWord": "MOOT",
+    "endWord": "FILE",
+    "solution": ["POINT", "UNIMPORTANT", "ANTLES", "EXPORT", "SAVE AS"]
   }
   ]
 }
