@@ -697,5 +697,12 @@
     "endWord": "FILE",
     "solution": ["POINT", "UNIMPORTANT", "ANTLES", "EXPORT", "SAVE AS"]
   }
+    ,
+{
+    "date": "2025-07-24",
+    "startWord": "FORGOT",
+    "endWord": "DECONGESTED",
+    "solution": ["SLIPPED", "MISSED", "SOUND", "MIST", "STUFFY"]
+  }
   ]
 }
