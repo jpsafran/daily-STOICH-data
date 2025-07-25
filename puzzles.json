@@ -704,5 +704,12 @@
     "endWord": "DECONGESTED",
     "solution": ["SLIPPED", "MISSED", "SOUND", "MIST", "STUFFY"]
   }
+    ,
+{
+    "date": "2025-07-25",
+    "startWord": "MONKEY",
+    "endWord": "PUFFIN",
+    "solution": ["AROUND", "DAWDLE", "FREESTYLE", "WADDLE", "DIVE"]
+  }
   ]
 }
