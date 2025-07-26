@@ -711,5 +711,12 @@
     "endWord": "PUFFIN",
     "solution": ["AROUND", "DAWDLE", "FREESTYLE", "WADDLE", "DIVE"]
   }
+    ,
+{
+    "date": "2025-07-26",
+    "startWord": "READING",
+    "endWord": "LEASING",
+    "solution": ["MEDIA", "PA", "MA", "PARENT", "ADDY"]
+  }
   ]
 }
