@@ -726,5 +726,12 @@
     "endWord": "IDENTICAL",
     "solution": ["STONE", "COUNT", "FROG", "SESAME", "NOSE"]
   }
+    ,
+{
+    "date": "2025-07-31",
+    "startWord": "ANIME",
+    "endWord": "DOUGH",
+    "solution": ["SHAKEN", "MAINE", "AUGUSTA", "CAPITAL", "BREAD"]
+  }
   ]
 }
