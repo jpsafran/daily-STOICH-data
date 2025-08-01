@@ -732,6 +732,12 @@
     "startWord": "ANIME",
     "endWord": "DOUGH",
     "solution": ["SHAKEN", "MAINE", "AUGUSTA", "CAPITAL", "BREAD"]
+  } ,
+{
+    "date": "2025-08-01",
+    "startWord": "NERF",
+    "endWord": "OILED",
+    "solution": ["WEAKEN", "WOUND", "LOOPED", "COILED", "SPOILED"]
   }
   ]
 }
