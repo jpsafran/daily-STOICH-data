@@ -739,5 +739,12 @@
     "endWord": "OILED",
     "solution": ["WEAKEN", "WOUND", "LOOPED", "COILED", "SPOILED"]
   }
+    ,
+{
+    "date": "2025-08-04",
+    "startWord": "COY",
+    "endWord": "SWITCH",
+    "solution": ["BASE", "FISHY", "ODD", "OFF", "ON"]
+  }
   ]
 }
