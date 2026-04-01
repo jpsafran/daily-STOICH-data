@@ -745,6 +745,12 @@
     "startWord": "COY",
     "endWord": "SWITCH",
     "solution": ["BASE", "FISHY", "ODD", "OFF", "ON"]
+  },
+{
+    "date": "2026-04-01",
+    "startWord": "BACK",
+    "endWord": "LEMONADE",
+    "solution": ["SUPPORT", "FUND", "CROWD", "FUNDRAISE", "ALEX"]
   }
   ]
 }
