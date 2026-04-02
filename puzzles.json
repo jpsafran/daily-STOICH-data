@@ -751,6 +751,12 @@
     "startWord": "BACK",
     "endWord": "LEMONADE",
     "solution": ["SUPPORT", "FUND", "CROWD", "FUNDRAISE", "ALEX"]
+  },
+{
+    "date": "2026-04-02",
+    "startWord": "BREAD",
+    "endWord": "OMIT",
+    "solution": ["FLAT", "MATZAH", "HERBS", "PASSOVER", "CUT"]
   }
   ]
 }
