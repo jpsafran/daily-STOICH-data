@@ -757,6 +757,12 @@
     "startWord": "BREAD",
     "endWord": "OMIT",
     "solution": ["FLAT", "MATZAH", "HERBS", "PASSOVER", "CUT"]
+  },
+{
+    "date": "2026-04-03",
+    "startWord": "BLUE",
+    "endWord": "AMERICA",
+    "solution": ["GOAT", "CHEESE", "SMILE", "CAMERA", "EYE"]
   }
   ]
 }
