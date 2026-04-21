@@ -775,6 +775,24 @@
     "startWord": "TISSUE",
     "endWord": "INQUIRE",
     "solution": ["NOT", "PROBLEM", "BLEMISH", "PROBE", "ASK"]
+  },
+{
+    "date": "2026-04-21",
+    "startWord": "LARRY",
+    "endWord": "RECYCLE",
+    "solution": ["DAVID", "CURB", "CHECK", "REDUCE", "REUSE"]
+  },
+{
+    "date": "2026-04-22",
+    "startWord": "MOZILLA",
+    "endWord": "1009",
+    "solution": ["CHROME", "SURF", "FURS", "MIX", "ROMAN"]
+  },
+{
+    "date": "2026-04-23",
+    "startWord": "SQUID",
+    "endWord": "SCRIPTURE",
+    "solution": ["WARD", "TENTACLES", "ONEROUS", "NUMBERS", "GENESIS"]
   }
   ]
 }
