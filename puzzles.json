@@ -799,6 +799,24 @@
     "startWord": "DISH",
     "endWord": "SOUND",
     "solution": ["DOLE", "DEAL", "FOLD", "POKER", "BROKER"]
+  },
+{
+    "date": "2026-05-5",
+    "startWord": "LIGHT",
+    "endWord": "BEAM",
+    "solution": ["LASER", "SURGERY", "EYE", "SPY", "GAME"]
+  },
+{
+    "date": "2026-05-6",
+    "startWord": "GUMBO",
+    "endWord": "rock",
+    "solution": ["BEIGNET", "LOUISIANA", "TEXAS", "ARKANSAS", "CITY"]
+  },
+{
+    "date": "2026-05-7",
+    "startWord": "BURNING",
+    "endWord": "TEAM UP",
+    "solution": ["MAN", "FESTIVAL", "ORCHESTRA", "CONCERT", "BAND"]
   }
   ]
 }
